@@ -23,16 +23,16 @@ Este é um projeto simples em Java que simula um sistema de biblioteca. Ele perm
 -Nome : Nilson ID   : 122224
 
 ##=== LIVRO === 
--Título : Pequeno Príncipe 
--Autor  : XXXXXXX
--ISBN   : 677889 
--Status : disponível
+- Título : Pequeno Príncipe 
+- Autor  : XXXXXXX
+- ISBN   : 677889 
+- Status : disponível
 
 ##=== EMPRÉSTIMO === 
--Nilson pegou o livro - Pequeno Príncipe
--Empréstimo : 2025-04-20 
--Devolução  : 2025-04-27 
--Status     : Dentro do prazo
+- Nilson pegou o livro - Pequeno Príncipe
+- Empréstimo : 2025-04-20 
+- Devolução  : 2025-04-27 
+- Status     : Dentro do prazo
 
 ## Como Executar
 
