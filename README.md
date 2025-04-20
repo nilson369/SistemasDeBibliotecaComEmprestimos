@@ -39,7 +39,7 @@ Este é um projeto simples em Java que simula um sistema de biblioteca. Ele perm
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/nilson369/SistemasDeBibliotecaComEmprestimos.git
 
 2. Abra o projeto em uma IDE como o IntelliJ.
 
