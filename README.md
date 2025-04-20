@@ -19,16 +19,17 @@ Este é um projeto simples em Java que simula um sistema de biblioteca. Ele perm
 
 ## Exemplo de Saída
 
-##=== USUÁRIO === 
--Nome : Nilson ID   : 122224
+=== USUÁRIO === 
+- Nome : Nilson
+- ID   : 122224
 
-##=== LIVRO === 
+=== LIVRO === 
 - Título : Pequeno Príncipe 
 - Autor  : XXXXXXX
 - ISBN   : 677889 
 - Status : disponível
 
-##=== EMPRÉSTIMO === 
+=== EMPRÉSTIMO === 
 - Nilson pegou o livro - Pequeno Príncipe
 - Empréstimo : 2025-04-20 
 - Devolução  : 2025-04-27 
